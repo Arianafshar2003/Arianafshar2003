@@ -41,7 +41,7 @@ I'm **Arian Afshar**, a data enthusiast with a strong academic foundation in Bio
 
 ## 📬 Contact
 
-📧 arian.afshar0@gmail.com  
+📧 aryanafshar1382@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/arian-afshar-080b30247)  
 
 
