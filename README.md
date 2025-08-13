@@ -13,9 +13,9 @@ I'm **Arian Afshar**, a data enthusiast with a strong academic foundation in Bio
 
 ## ⚙️ Technical Skills
 
-- **Programming**: Python (daily use), MATLAB  
+- **Programming**: Python (daily use), MATLAB, HTML/CSS/JS(REACT)  
 - **Data & Analytics**: SQL(MYsql), Power BI, Excel, ER diagram   
-- **ML/DL Libraries**: Scikit-learn, TensorFlow,   
+- **ML/DL Libraries**: Scikit-learn, TensorFlow, PyTorch   
 - **Visualization**: Matplotlib, Seaborn, Plotly  
 - **Other Tools**: Git, Jupyter, Colab
 
