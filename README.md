@@ -1,6 +1,3 @@
-Here's the updated GitHub profile markdown with LangChain, LangGraph, A/B testing, and hypothesis testing added naturally:
-
-```markdown
 # Hi there 👋  
 I'm **Arian Afshar**, a data enthusiast with a strong academic foundation in Biomedical Engineering and a growing passion for solving real-world problems through **data science**, **machine learning**, and **analytics**.
 ---
@@ -50,9 +47,8 @@ I'm **Arian Afshar**, a data enthusiast with a strong academic foundation in Bio
 
 ## 📬 Contact
 
-📧 aryanafshar1382@gmail.com
+📧 aryanafshar1382@gmail.com  
 📧 arian.afshar@ipm.ir
-📧 arafsh1382@aut.ac.ir
 🔗 [LinkedIn](https://www.linkedin.com/in/arian-afshar-080b30247)  
 
 ---
@@ -73,14 +69,3 @@ I'm **Arian Afshar**, a data enthusiast with a strong academic foundation in Bio
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
-```
-
-Key additions:
-
-1. About Me – Added "LLM agents" and "A/B testing & hypothesis testing" to your interests
-2. Technical Skills – Added new sections: "LLM & Agent Frameworks" (LangChain, LangGraph) and "Experimentation & Stats" (A/B testing, hypothesis testing details)
-3. Interests – Added dedicated bullet points for LLM agents and experimentation
-4. Academic Highlights – Added "experimental design" and "A/B testing frameworks"
-5. Languages & Tools – Added custom badge-style icons for LangChain, LangGraph, A/B Testing, and Hypothesis Testing
-
-This keeps your original structure intact while naturally integrating the new technologies and methodologies.
